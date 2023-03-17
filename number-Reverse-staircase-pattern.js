@@ -24,5 +24,3 @@ console.log(string);
 
 // console.log(global)
 // let global = "alagappan" ;
-
-

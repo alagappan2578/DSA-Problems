@@ -34,12 +34,12 @@
 
 
 
-// aa();
+// // aa();
 
-let a = 8;
-let b = 5;
-a = a+b;
-b = a-b;
-a = a-b;
-console.log("a = " + a)
-console.log("b = " + b)
+// let a = 8;
+// let b = 5;
+// a = a+b;
+// b = a-b;
+// a = a-b;
+// console.log("a = " + a)
+// console.log("b = " + b)
