@@ -3,8 +3,9 @@
 
 
 let a = [1,2,3,3,4];
+let b = []
 let x = 3;
-let found = 0;
+let found = 0; 
 for(let i=0; i<a.length;i++)
 {
   if(x === a[i]){

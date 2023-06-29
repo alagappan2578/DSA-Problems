@@ -47,9 +47,3 @@ let m=5;
 for(let i=1;i<=m;i++){
   console.log( num(i)+space(m-i)+space(m-i-1)+rev_num(i));
 }
-
-
-
-
-
-
